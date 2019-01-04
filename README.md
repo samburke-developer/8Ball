@@ -6,7 +6,7 @@ The Node.js backend uses the Express framework and was created using the [Expres
 
 All that was modifed was the [index.js](https://github.com/Burkie11/8Ball/blob/master/8Ball_backend/routes/index.js) in /routes as well as as adding the cors module to the app.js file.
 
-The react application was created using the [Create React App generator](https://reactjs.org/docs/create-a-new-react-app.html#create-react-app). Modifications were then applied to the [App.js]((https://github.com/Burkie11/8Ball/blob/master/8ball_frontend/src/App.js)  file and [App.css]((https://github.com/Burkie11/8Ball/blob/master/8ball_frontend/src/App.css) files.
+The react application was created using the [Create React App generator](https://reactjs.org/docs/create-a-new-react-app.html#create-react-app). Modifications were then applied to the [App.js](https://github.com/Burkie11/8Ball/blob/master/8ball_frontend_/src/App.js)  file and [App.css](https://github.com/Burkie11/8Ball/blob/master/8ball_frontend_/src/App.css) files.
 
 The backend runs on port 3000, the frontend run on port 3001.
 
